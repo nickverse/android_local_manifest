@@ -1,2 +1,2 @@
-# android_local_manifest
-Local manifest to build CyanogenMod for J5, A5, A3, E5.
+Repositories that are needed to build CyanogenMod 12.1 for Galaxy J5 (j5nltexx)
+
