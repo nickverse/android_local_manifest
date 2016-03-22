@@ -23,6 +23,7 @@
 
     <!-- Vendor -->
     <project path="vendor/samsung/j5-common" name="nickverse/proprietary_vendor_samsung_j5-common" revision="cm-12.1" />
+    <project path="vendor/samsung/j5nltexx" name="nickverse/proprietary_vendor_samsung_j5nltexx" revision="cm-12.1" />
     <project path="vendor/samsung" name="MSM8916-Samsung/proprietary_vendor_samsung" revision="cm-12.1" />
 
     <!-- Common device repos -->
